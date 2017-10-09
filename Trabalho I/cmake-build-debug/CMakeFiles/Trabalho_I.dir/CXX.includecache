@@ -6,11 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.cpp
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.cpp
 ChefeDeCozinha.h
-/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.h
 
-/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.h
 string
 -
 zconf.h
@@ -18,19 +18,19 @@ zconf.h
 iostream
 -
 
-/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.cpp
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.cpp
 Restaurante.h
-/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.h
 
-/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.h
 queue
 -
 string
 -
 ChefeDeCozinha.h
-/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.h
 
-/cygdrive/d/Carliton/SI/SO/Trabalho I/main.cpp
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/main.cpp
 iostream
 -
 boost/algorithm/string.hpp
@@ -38,5 +38,5 @@ boost/algorithm/string.hpp
 stdlib.h
 -
 Restaurante.h
-/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.h
 

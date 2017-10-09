@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.cpp" "/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/ChefeDeCozinha.cpp.o"
-  "/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.cpp" "/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/Restaurante.cpp.o"
-  "/cygdrive/d/Carliton/SI/SO/Trabalho I/main.cpp" "/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/main.cpp.o"
+  "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.cpp" "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/ChefeDeCozinha.cpp.o"
+  "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.cpp" "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/Restaurante.cpp.o"
+  "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/main.cpp" "/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

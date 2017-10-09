@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug"/>
+				<Option working_dir="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Trabalho_I">
-				<Option output="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/Trabalho_I.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug"/>
+				<Option output="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug/Trabalho_I.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho_I"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho_I"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Trabalho_I/fast">
-				<Option output="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/Trabalho_I.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug"/>
+				<Option output="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug/Trabalho_I.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,29 +73,29 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/6.3.0/include/c++/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho_I/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/SI/SO/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 Trabalho_I/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho\ I/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.cpp">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.cpp">
 			<Option target="Trabalho_I"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/ChefeDeCozinha.h">
 			<Option target="Trabalho_I"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.cpp">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.cpp">
 			<Option target="Trabalho_I"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/Restaurante.h">
 			<Option target="Trabalho_I"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/main.cpp">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/main.cpp">
 			<Option target="Trabalho_I"/>
 		</Unit>
-		<Unit filename="/cygdrive/d/Carliton/SI/SO/Trabalho I/CMakeLists.txt">
+		<Unit filename="/cygdrive/d/Carliton/ProjetosGitHub/RestauranteFuturista/Trabalho I/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
