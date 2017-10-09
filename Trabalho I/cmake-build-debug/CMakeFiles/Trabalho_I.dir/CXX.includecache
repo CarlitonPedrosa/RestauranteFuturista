@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.cpp
+ChefeDeCozinha.h
+/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+
+/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+string
+-
+zconf.h
+-
+iostream
+-
+
+/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.cpp
+Restaurante.h
+/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+
+/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+queue
+-
+string
+-
+ChefeDeCozinha.h
+/cygdrive/d/Carliton/SI/SO/Trabalho I/ChefeDeCozinha.h
+
+/cygdrive/d/Carliton/SI/SO/Trabalho I/main.cpp
+iostream
+-
+boost/algorithm/string.hpp
+-
+stdlib.h
+-
+Restaurante.h
+/cygdrive/d/Carliton/SI/SO/Trabalho I/Restaurante.h
+

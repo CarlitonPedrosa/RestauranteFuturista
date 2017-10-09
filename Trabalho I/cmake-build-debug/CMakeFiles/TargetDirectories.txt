@@ -1,0 +1,3 @@
+/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Carliton/SI/SO/Trabalho I/cmake-build-debug/CMakeFiles/Trabalho_I.dir

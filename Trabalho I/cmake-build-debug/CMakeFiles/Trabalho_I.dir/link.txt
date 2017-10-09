@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Trabalho_I.dir/main.cpp.o CMakeFiles/Trabalho_I.dir/ChefeDeCozinha.cpp.o CMakeFiles/Trabalho_I.dir/Restaurante.cpp.o  -o Trabalho_I.exe -Wl,--out-implib,libTrabalho_I.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
